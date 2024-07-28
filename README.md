@@ -1,0 +1,1 @@
+The purpose of this case study, is to identify the driving factors, variables or group of variables that influence the creditworthiness of a customer. As a data scientist my job is to identify the factors that leads to loan default and help the company to take better data-driven decisions while approving loans.
